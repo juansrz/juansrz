@@ -5,7 +5,6 @@
 
 ### :bust_in_silhouette: About Me
   
-- :mortar_board: Penetration Testing Student | eJPT
 - :closed_book: CyberSecurity Student | URJC
 - :pencil: I'll posting some projects on [https://juansrz.github.io/](https://juansrz.github.io/)
 
