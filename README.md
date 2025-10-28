@@ -1,10 +1,7 @@
 <img src="https://media2.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif?cid=ecf05e47ct4yhk8pvu597tp5o2b6txvqwnxj0wrga3e93t9l&rid=giphy.gif&ct=g" height="356" width="1035">
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=4000&pause=2000&center=true&vCenter=true&multiline=true&width=1100&height=70&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Juan+Antonio+Suárez+Suárez;Cybersecurity+student+%7C+CTF+Player+%7C+Red+Team+%7C+eJPT" alt="Typing SVG" /></a>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=4000&pause=2000&center=true&vCenter=true&multiline=true&width=1100&height=70&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Juan+Antonio+Suárez+Suárez;Cybersecurity+student+%7C+CTF+Player)](https://git.io/typing-svg)
 ### :bust_in_silhouette: About Me
-  
 - :closed_book: CyberSecurity Student | URJC
 - :pencil: I'll posting some projects on [https://juansrz.github.io/](https://juansrz.github.io/)
 
